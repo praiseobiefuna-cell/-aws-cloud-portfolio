@@ -1,25 +1,34 @@
-# -aws-cloud-portfolio
-AWS cloud projects, certifications, and hands-on labs
-# Ifunanya Cloud Engineering Portfolio ☁️
+# Ifunanya Obiefuna · Cloud Engineering Portfolio
 
-Welcome to my cloud engineering portfolio.
+Cloud Engineer focused on building reliable, cost-conscious AWS infrastructure for modern businesses.
 
-I am currently learning and building hands-on experience in AWS Cloud Computing and cloud engineering. This portfolio showcases my certifications, cloud labs, and projects as I continue growing my technical skills.
+🌐 **Live Portfolio:** https://ifunanyaobiefuna.netlify.app
+
+---
 
 ## Certifications
-- AWS Cloud Technical Essentials
-- Introduction to Information Technology and AWS Cloud
 
-## Skills
-- Amazon EC2
-- Amazon S3
-- Auto Scaling
-- Elastic Load Balancing
-- IAM
-- Cloud Security Fundamentals
+- AWS Cloud Technical Essentials — **100%**
+- Introduction to Information Technology and AWS Cloud — **99.99%**
 
-## Learning Journey
-I am currently expanding my knowledge in cloud infrastructure, cloud security, scalability, and AWS services through practical learning and hands-on projects.
+---
 
 ## Projects
-Projects coming soon 🚀
+
+### 01 · Static Website Hosting on AWS S3
+Configured an S3 bucket to host a static website with full public access. Set up a bucket policy using JSON to grant read permissions, disabled default public access blocks, and enabled static website hosting with a defined index document.
+
+**Services used:** Amazon S3, IAM, Bucket Policy  
+**Live site:** http://ifunanya-cloud-portfolio.s3-website.eu-north-1.amazonaws.com
+
+---
+
+## Skills
+
+Amazon EC2 · Amazon S3 · VPC · IAM · Lambda · RDS · CloudWatch · ELB · Auto Scaling · Elastic Load Balancing · Cloud Security · Well-Architected Framework
+
+---
+
+## Contact
+
+📧 praiseobiefuna@gmail.com
