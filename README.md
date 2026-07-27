@@ -136,7 +136,7 @@ Built an automated deployment pipeline using GitHub Actions, Docker, Kubernetes,
 https://www.linkedin.com/in/ifunanya-obiefuna-7310132b9
 
 💻 GitHub:
-praiseobiefuna-cell - Overview
+https://github.com/praiseobiefuna-cell
 
 🌐 Portfolio:https://ifunanyaobiefuna.netlify.app/
 
